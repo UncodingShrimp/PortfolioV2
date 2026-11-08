@@ -31,7 +31,7 @@ export default function Hero() {
 
         <div className={`flex flex-col items-center gap-2 mb-8 transition-all duration-700 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`} style={{ transitionDelay: '100ms' }}>
           <p className="text-xl sm:text-2xl font-jp text-sakura font-semibold">
-            💻 Développeur Full-Stack
+            Développeur Full-Stack
           </p>
           <p className="text-sm sm:text-base text-gray-600">
             Création de sites, applications et bots Discord
@@ -39,7 +39,7 @@ export default function Hero() {
         </div>
 
         <p className={`text-base sm:text-lg text-gray-700 mb-12 max-w-xl mx-auto leading-relaxed transition-all duration-700 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`} style={{ transitionDelay: '200ms' }}>
-          👋 Bonjour ! J'ai 16 ans et je suis passionné par le développement web, la création d'applications et le Japon ! Vous avez un projet en tête ? Parlons ensemble ! 🚀
+          👋 Bonjour ! J'ai 16 ans et je suis passionné par le développement web, la création d'applications et le Japon ! Vous avez un projet en tête ? Parlons ensemble !
         </p>
 
         <div className={`flex flex-col sm:flex-row gap-4 justify-center mb-12 transition-all duration-700 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`} style={{ transitionDelay: '300ms' }}>
