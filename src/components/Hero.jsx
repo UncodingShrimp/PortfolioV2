@@ -43,7 +43,7 @@ export default function Hero() {
         </p>
 
         <div className={`flex flex-col sm:flex-row gap-4 justify-center mb-12 transition-all duration-700 ${isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'}`} style={{ transitionDelay: '300ms' }}>
-          <a href="https://github.com/Elicopter78" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-sakura text-white font-jp font-bold rounded-lg hover:bg-sakura-light shadow-lg hover:shadow-sakura/50 transition-all duration-300 flex items-center justify-center gap-2 group">
+          <a href="https://github.com/UncodingShrimp" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-sakura text-white font-jp font-bold rounded-lg hover:bg-sakura-light shadow-lg hover:shadow-sakura/50 transition-all duration-300 flex items-center justify-center gap-2 group">
             <span>GitHub</span>
             <span className="group-hover:translate-x-1 transition-transform duration-300">→</span>
           </a>

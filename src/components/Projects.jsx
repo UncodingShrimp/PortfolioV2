@@ -60,8 +60,8 @@ const projects = [
     startDate: "2023",
     endDate: "2024",
     links: [
-      { label: 'Télécharger', icon: faDownload, url: 'https://github.com/Elicopter78/MoyenneExpress/releases' },
-      { label: 'GitHub', icon: faGithub, url: 'https://github.com/Elicopter78/MoyenneExpress' },
+      { label: 'Télécharger', icon: faDownload, url: 'https://github.com/UncodingShrimp/MoyenneExpress/releases' },
+      { label: 'GitHub', icon: faGithub, url: 'https://github.com/UncodingShrimp/MoyenneExpress' },
     ],
   },
   {
@@ -84,7 +84,7 @@ const projects = [
     endDate: "aujourd'hui",
     links: [
       { label: 'Site', icon: faGlobe, url: 'https://new-year.elie-dev.fr' },
-      { label: 'GitHub', icon: faGithub, url: 'https://github.com/Elicopter78/DecompteNouvelAn' },
+      { label: 'GitHub', icon: faGithub, url: 'https://github.com/UncodingShrimp/DecompteNouvelAn' },
     ],
   },
   {
@@ -95,7 +95,7 @@ const projects = [
     startDate: "avril 2026",
     endDate: "aujourd'hui",
     links: [
-      { label: 'GitHub', icon: faGithub, url: 'https://github.com/Elicopter78/Pissenlit' },
+      { label: 'GitHub', icon: faGithub, url: 'https://github.com/UncodingShrimp/Pissenlit' },
     ],
   },
 ];

@@ -79,7 +79,7 @@ export default function Contact() {
               </div>
 
               <div className="group p-6 rounded-xl bg-gray-50 border border-sakura/20 hover:border-sakura/50 transition-all duration-300 cursor-pointer">
-                <a href="https://github.com/Elicopter78" target="_blank" rel="noopener noreferrer" className="flex items-start gap-4">
+                <a href="https://github.com/UncodingShrimp" target="_blank" rel="noopener noreferrer" className="flex items-start gap-4">
                   <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-sakura/20 to-sakura-dark/20 flex items-center justify-center text-xl group-hover:scale-110 transition-transform duration-300">
                     <FontAwesomeIcon icon={faGithub} className="text-sakura" />
                   </div>

@@ -50,7 +50,7 @@ export default function Footer() {
             <h4 className="text-gray-900 font-jp font-semibold mb-4">Me contacter</h4>
             <div className="flex gap-4">
               <a
-                href="https://github.com/Elicopter78"
+                href="https://github.com/UncodingShrimp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-gray-100 border border-sakura/30 flex items-center justify-center text-gray-900 hover:bg-sakura hover:text-white hover:border-sakura transition-all duration-300"

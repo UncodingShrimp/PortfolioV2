@@ -17,7 +17,7 @@ Portfolio personnel d'Elie Saidane Lemercier, réalisé avec React et Vite. Le s
 ## Installation
 
 ```bash
-git clone https://github.com/Elicopter78/PortfolioV2.git
+git clone https://github.com/UncodingShrimp/PortfolioV2.git
 cd PortfolioV2
 npm install
 ```
@@ -53,7 +53,7 @@ Les composants de l'interface se trouvent dans `src/components/`, et les images 
 ## Contact
 
 - E-mail : [crevette@elie-dev.fr](mailto:crevette@elie-dev.fr)
-- GitHub : [@Elicopter78](https://github.com/Elicopter78)
+- GitHub : [@Elicopter78](https://github.com/UncodingShrimp)
 - Discord : [@elie.off](https://discordapp.com/users/1430155559197216839)
 
 ## Licence
