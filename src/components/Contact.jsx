@@ -86,7 +86,7 @@ export default function Contact() {
                   <div>
                     <h3 className="text-gray-900 font-jp font-semibold mb-1">GitHub</h3>
                     <p className="text-gray-600 hover:text-sakura transition-colors duration-300">
-                      Elicopter78
+                      UncodingShrimp
                     </p>
                   </div>
                 </a>
